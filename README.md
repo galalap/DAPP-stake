@@ -20,7 +20,11 @@ npm run start
 ```
 หากต้องการเริ่มต้นการทำงานด้วยโปรเจ็คนี้ ควรเช็ค version ของ node ก่อน ด้วยคำสั่ง node -v.  
 จากนั้น ควรกำหนด version node เป็น 12.18.3
-ต่อจากนั้นเปิด ganache แล้ว ทำการสร้าง new workspece
+ต่อจากนั้นเปิด ganache แล้ว ทำการสร้าง new workspece แล้วกำหนด networkId 1337 หรือ 5777 
+
+[![unbox.png](https://i.postimg.cc/MTM5wsjK/Screen-Shot-2564-01-15-at-17-04-43.png)
+[![unbox.png](https://i.postimg.cc/Lsrftmn2/Screen-Shot-2564-01-15-at-17-04-36.png)
+
 ตรวจสอบ truffle ว่าในเครื่องหรือไม่ หากว่าไม่มีให้ใช้คำสั่ง
 ```
 sudo npm install --g truffle@5.1.39
