@@ -11,9 +11,12 @@ cd DAPP-stake/
 git clone -b starter-code https://github.com/dappuniversity/defi_tutorial.git
 git checkout -b master 
 ```
-### หากต้องการข้ามขั้นตอนการสร้าง file จากจุดเริ่มต้น คุณสามารถใช้คำสั่ง 
+### หากต้องการข้ามขั้นตอนการสร้าง file จากจุดเริ่มต้น คุณสามารถใช้คำสั่งใน terminal ได้ดังนี้
 ```
-git clone 
+git clone https://github.com/galalap/DAPP-stake.git
+npm install
+truffle migrate
+npm run start
 ```
 หากต้องการเริ่มต้นการทำงานด้วยโปรเจ็คนี้ ควรเช็ค version ของ node ก่อน ด้วยคำสั่ง node -v.  
 จากนั้น ควรกำหนด version node เป็น 12.18.3
