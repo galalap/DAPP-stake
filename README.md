@@ -1,5 +1,5 @@
 ## ฝากเหรียญ mDai แล้วได้ GOPGAP(DAPP) token. 
-เนื่องจากต้องการศึกษาการทำงานของ code จึงทำการ clone ตัว starter เพื่อทำความเข้าใจ
+บทนำ - สร้างธนาคารดิจิตอลที่สามารถรับดอกเบี้ยได้(reward/interest)จากการฝากเงินดิจิตอล เข้าไปในระบบ
 
 ## ขั้นตอนการทำงาน
 คือ เริ่มจาก clone โปรเจ็ค defi_tutorial มาจาก https://github.com/dappuniversity/defi_tutorial.git  
